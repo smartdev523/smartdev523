@@ -1,25 +1,3 @@
-<h1 align="center">Hi, I'm Jerson 👋</h1>
-
-<p align="center">
-  <strong>Software Engineer</strong><br/>
-  📍 Angeles, Philippines &nbsp;·&nbsp; ✉️ jerson.enriquez92@gmail.com
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/jerson-pabillo">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://jerson.dev">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://drive.google.com/file/d/1xWiz6nx4UXAjsDU9YvVAO5AOAOTkkbpo">
-    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/>
-  </a>
-</p>
-
----
-
-Senior software engineer with **11+ years** building production-grade SaaS, agentic AI systems, and full-stack applications. I bridge the gap between LLM capabilities and real-world product requirements from RAG pipelines and document intelligence to scalable APIs and polished React UIs.
 
 ---
 
